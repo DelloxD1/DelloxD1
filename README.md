@@ -1,12 +1,67 @@
-<h1 align="center">Hi 👋, I'm Marc-Daniell</h1>
-<h3 align="center">A passionate DevOps-Engineer from Germany</h3>
+# Hi 👋, I'm Marc-Daniell - a DevOps-Engineer from Germany 🚀
 
-- 💬 Ask me about **puppet, python, prometheus, grafana**
+Hey there! I'm Marc-Daniell, an open-minded individual with an insatiable passion for all things technical. Ever since my birth, I've been drawn to the world of technology, exploring and pushing boundaries. Welcome to my GitHub universe, where I share my journey and love for coding and cutting-edge technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marc-daniell-heß-8b6b652a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-daniell-heß-8b6b652a4" height="30" width="40" /></a>
-</p>
+## 🌐 Languages
+I speak the languages of machines, and my favorites include:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+- Python 🐍
+- Bash 💻
+- Jinja2 🖌️
+
+## 🚀 Technologies I Embrace
+
+### Virtualization & Containerization
+- Docker 🐳
+- LXC 🚧
+- oVirt 🔄
+- Proxmox 🛡️
+
+### Configuration Management
+- SaltStack 🧂
+- Puppet 🎭
+- Puppet Bolt ⚙️
+
+### Operating Systems
+- Red Hat Enterprise Linux (RHEL) 🎩
+- Linux in general 🐧
+
+### Monitoring & Observability
+- Prometheus 📈
+- Prometheus Alertmanager 🚨
+- Grafana 📊
+- Icinga2 👁️
+
+### Databases & Web Servers
+- MariaDB / MySQL 🗃️
+- Nginx 🌐
+- Traefik 🚢
+
+### Service Discovery & Orchestration
+- Consul 🗺️
+
+### Networking & Security
+- tcpdump 📦
+- strace 🕵️
+- netcat 📡
+- nmap 🗺️
+- iptables / netfilter 🔒
+- SELinux 🛡️
+
+### Version Control
+- Git 📜
+
+### Home Automation & Security
+- Home Assistant 🏡
+- Vaultwarden 🔒
+- Nextcloud ☁️
+
+### Infrastructure as Code (IaC)
+- Terraform 🏗️
+
+Join me as I explore, experiment, and contribute to the ever-evolving landscape of technology. Feel free to dive into my repositories, where I've stored bits of my knowledge and experiences. Let's build, break, and learn together!
+
+Connect with me:
+- LinkedIn: [Hans' LinkedIn](https://www.linkedin.com/in/marc-daniell-he%C3%9F-8b6b652a4/)
+
+Happy coding! 🚀✨
